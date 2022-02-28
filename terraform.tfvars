@@ -1,2 +1,2 @@
-project_id = "my-project-googl-340908"
+project_id = "flaskproj2-341506"
 region     = "us-central1"
